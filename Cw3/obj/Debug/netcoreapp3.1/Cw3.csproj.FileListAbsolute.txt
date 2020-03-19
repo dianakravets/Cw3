@@ -1,0 +1,17 @@
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Cw3.deps.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Cw3.runtimeconfig.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Cw3.runtimeconfig.dev.json
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Cw3.dll
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/bin/Debug/netcoreapp3.1/Cw3.pdb
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.csprojAssemblyReference.cache
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.MvcApplicationPartsAssemblyInfo.cache
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.AssemblyInfoInputs.cache
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.AssemblyInfo.cs
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.RazorTargetAssemblyInfo.cache
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/staticwebassets/Cw3.StaticWebAssets.Manifest.cache
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/staticwebassets/Cw3.StaticWebAssets.xml
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.dll
+/Users/dianakravets/Data/IV sem/Cw3/Cw3/obj/Debug/netcoreapp3.1/Cw3.pdb
